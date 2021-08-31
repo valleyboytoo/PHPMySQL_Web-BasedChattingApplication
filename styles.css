@@ -1,0 +1,119 @@
+h1
+{
+	color:black;
+}
+
+.names
+{
+	padding-top:5px;
+}
+a
+{
+	text-decoration:none;
+}
+#lo-but
+{
+	color:red;
+	height:auto;
+	width:80px;
+	background:none;
+	padding:1px;
+	border-radius:2px;
+	text-align:center;
+	display:block;
+	margin-top:-39px;
+	margin-right:-3px;
+
+}
+
+#send
+{
+	width:50px;
+	height:30px;
+	border-radius:5px;
+	border:0px;
+	color:white;
+	background:skyblue;
+	font-size:18px;
+}
+
+#txtarea
+{
+	height:30px;
+	width:85%;
+	border-radius:5px;
+}
+
+.item
+{
+	color:white;
+	text-align:left;
+	background:gray;
+	width:95%;
+	min-height:25px;
+	margin-top:17px;
+	padding:5px;
+	padding-top:-10px;
+	border-radius:5px;
+}
+
+.item2
+{
+	color:white;
+	text-align:left;
+	background:purple;
+	width:95%;
+	min-height:25px;
+	margin-top:17px;
+	padding:5px;
+	border-radius:5px;
+}
+
+#chatbox
+{
+	max-width:80%;
+	min-width:80%;
+	height:300px;
+	border-radius:5px;
+	background:grey;
+	overflow:scroll;
+}
+
+#a
+{
+	text-decoration:none;
+}
+
+#reg,#login
+{
+	width:110px;
+	height:30px;
+	border-radius:5px;
+}
+
+#reg
+{
+	background:orange;
+}
+
+#login
+{
+	background:skyblue;
+}
+
+
+#main
+{
+	height:auto;
+	max-width:800px;
+	border:2px white solid;
+	float:center;
+	margin-top:40px;
+	border-radius:10px;
+}
+body
+{
+	background-image: url("dock.jpg");
+	background-repeat:none;
+	color:black;
+}

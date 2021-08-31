@@ -1,0 +1,57 @@
+h1
+{
+	color:black;
+}
+
+.names
+{
+	padding-top:5px;
+}
+
+body
+{
+	background:black;
+	color:black;
+	background-position: center;
+}
+
+.item
+{
+	
+	text-align:left;
+	
+	max-width:95%;
+	min-width:95%;
+	min-height:25px;
+	margin-top:17px;
+	padding:5px;
+	padding-top:-10px;
+	border-radius:5px;
+}
+
+.item-x
+{
+	
+	text-align:right;
+	position:right;
+	max-width:95%;
+	min-width:95%;
+	min-height:25px;
+	margin-top:17px;
+	padding:5px;
+	padding-top:-10px;
+	border-radius:5px;
+}
+
+.item2
+{
+	color:white;
+	text-align:left;
+	background:purple;
+	max-width:95%;
+	min-width:95%;
+	min-height:25px;
+	margin-top:17px;
+	padding:5px;
+	border-radius:5px;
+}
