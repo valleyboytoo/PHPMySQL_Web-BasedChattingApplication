@@ -7,3 +7,14 @@ What is a chatting application? Chatting applications are programmed to allow yo
 In a chatting application, a user can register herself/himself. After registration, they can login with their existing user id and password. 
 In this project you will create a simple web based chat application with PHP and MYSQL. 
 
+# Diagram
+
+![1](https://user-images.githubusercontent.com/72087494/140139862-db86e834-0623-460a-b9ca-638dc00e651e.png)
+
+# Flowcharts
+
+![2](https://user-images.githubusercontent.com/72087494/140139886-c86210b6-aa4a-4d95-9a28-066d7cd6f8cd.png)
+
+![3](https://user-images.githubusercontent.com/72087494/140139895-8351141f-8954-412e-a789-a2507c5ad29e.png)
+
+![4](https://user-images.githubusercontent.com/72087494/140139902-26f5575e-5448-4cd1-87e1-9ec6894e4b52.png)
