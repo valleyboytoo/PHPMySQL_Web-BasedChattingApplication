@@ -1,6 +1,6 @@
 # PHPMySQL_Web-BasedChattingApplication
 
-SPECIFICATIONS 
+# SPECIFICATIONS 
 
 In the professional world, a large amount of communication between individuals is done via messages. It is one of the most secure and fast mediums of communication for a modern era. Messaging is also a good way to connect with your friends; it helps people to be active in social life. 
 
